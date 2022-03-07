@@ -33,7 +33,7 @@
     "appium-chromedriver": "^4.24.0",
     "chai": "^4.2.0",
     "del": "^5.1.0",
-    "log4js": "^6.2.1"
+    "log4js": "^6.4.0"
   },
   "directories": {
     "test": "test"
