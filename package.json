@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "@wdio/allure-reporter": "^6.1.12",
-    "appium-chromedriver": "^4.24.0",
+    "appium-chromedriver": "^4.28.0",
     "chai": "^4.2.0",
     "del": "^5.1.0",
     "log4js": "^6.2.1"
